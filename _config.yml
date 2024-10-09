@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Project-based course on AI/ML and Software as a Service. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
-baseurl: "/service-design-studio" # the subpath of your site, e.g. /blog
-url: "https://istd.sutd.edu.sg/service-design-studio/"
+# baseurl: "service-design-studio" # the subpath of your site, e.g. /blog
+url: "https://Service-Design-Studio.github.io/"
 logo: "sutd-logo-png.png"
 
 # Build settings
@@ -41,6 +41,8 @@ minima:
     github: Service-Design-Studio
   header_pages:
     - contact.md
+    - 2024.md
+    - 2023.md
     - 2022.md
     - 2021.md
   google_analytics: G-2QP7SDDL41
